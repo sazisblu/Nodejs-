@@ -16,10 +16,7 @@ for (let i = 0; i < 5; i++) {
   console.log("Loop iteration: " + i);
 }
 
-// Functions
-function greet(name) {
-  console.log("Hello, " + name + "!");
-}
+
 
 greet("Jane Doe");
 
