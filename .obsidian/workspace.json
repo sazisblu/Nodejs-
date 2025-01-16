@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introduction.md",
+                "file": "Notes/Backend System.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Introduction"
+              "title": "Backend System"
+            }
+          },
+          {
+            "id": "ad68b4b04569255c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Git/Git-Note.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Git-Note"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introduction.md",
+                "file": "Notes/Git/Git-Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Introduction"
+              "title": "Backlinks for Git-Note"
             }
           },
           {
@@ -112,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Introduction.md",
+                "file": "Notes/Git/Git-Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Introduction"
+              "title": "Outgoing links from Git-Note"
             }
           },
           {
@@ -139,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Introduction.md"
+                "file": "Notes/Git/Git-Note.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Introduction"
+              "title": "Outline of Git-Note"
             }
           }
         ]
@@ -163,8 +178,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8850aae317a1bff5",
+  "active": "ad68b4b04569255c",
   "lastOpenFiles": [
-    "Introduction.md"
+    "Notes/Git/index.js",
+    "Excalidraw/Drawing 2025-01-16 08.46.40.excalidraw.md",
+    "Notes/Git",
+    "Notes/Git/Git-Note.md",
+    "Notes/What are we going to learn first.md",
+    "Notes/Backend System.md",
+    "Notes/Introduction.md",
+    "Excalidraw",
+    "Notes/Server's-Working.canvas",
+    "Server's.md",
+    "Notes",
+    "github.com/banmala/todo-api.md",
+    "github.com/banmala",
+    "github.com"
   ]
 }
