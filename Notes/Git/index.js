@@ -34,7 +34,8 @@ let person = {
 console.log(person.name);
 
 
-console.log()let cat = {
+console.log();
+let cat = {
   name: "Whiskers",
   age: 3,
   breed: "Siamese"
