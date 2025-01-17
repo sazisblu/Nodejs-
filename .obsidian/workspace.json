@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Backend System.md",
+                "file": "Notes/Git/Git-Note.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Backend System"
+              "title": "Git-Note"
             }
           },
           {
@@ -35,8 +35,7 @@
               "title": "Git-Note"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -178,14 +177,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ad68b4b04569255c",
+  "active": "8850aae317a1bff5",
   "lastOpenFiles": [
+    "Notes/Backend System.md",
+    "Notes/Git/Git-Note.md",
     "Notes/Git/index.js",
     "Excalidraw/Drawing 2025-01-16 08.46.40.excalidraw.md",
     "Notes/Git",
-    "Notes/Git/Git-Note.md",
     "Notes/What are we going to learn first.md",
-    "Notes/Backend System.md",
     "Notes/Introduction.md",
     "Excalidraw",
     "Notes/Server's-Working.canvas",
