@@ -32,3 +32,17 @@ let person = {
 };
 
 console.log(person.name);
+
+
+console.log()let cat = {
+  name: "Whiskers",
+  age: 3,
+  breed: "Siamese"
+};
+
+console.log(cat.name + " is a " + cat.age + " year old " + cat.breed + ".");
+
+let catSounds = ["meow", "purrr", "hiss"];
+for (let i = 0; i < catSounds.length; i++) {
+  console.log("Cat sound: " + catSounds[i]);
+}
