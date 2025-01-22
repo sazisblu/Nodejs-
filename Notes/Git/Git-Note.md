@@ -15,7 +15,9 @@ Git is a free and open-source version control system that helps developers track
 3. **git push and git pull**:
 4. **git remote add origin** : We can have multiple origins in a single project (This is done when we want remote access to our code from a separate device)
 5. **git push origin branch_name**: If we dont specify the branch name then , pushing happens at the default origin's active branch.
-	1. 
+6. **git branch -D /branch name/**: Deletes the specified branch 
+7. **git checkout -B /branch name/** : Creates and swiches to new branch 
+		
 
 
 # Branches

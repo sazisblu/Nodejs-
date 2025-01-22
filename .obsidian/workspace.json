@@ -13,29 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Git/Git-Note.md",
+                "file": "Notes/Java Script/Asynchronous and Synchronous/04. Promises.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Git-Note"
+              "title": "04. Promises"
             }
           },
           {
-            "id": "ad68b4b04569255c",
+            "id": "28ec6913b5792168",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Git/Git-Note.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Git-Note"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -67,7 +64,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -91,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 285.5
   },
   "right": {
     "id": "a417db9326aff224",
@@ -107,17 +104,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Git/Git-Note.md",
+                "file": "Notes/Java Script/Sync and Asynchronous programming or Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Git-Note"
+              "title": "Backlinks for Sync and Asynchronous programming or Functions"
             }
           },
           {
@@ -126,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Git/Git-Note.md",
+                "file": "Notes/Java Script/Sync and Asynchronous programming or Functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Git-Note"
+              "title": "Outgoing links from Sync and Asynchronous programming or Functions"
             }
           },
           {
@@ -153,18 +150,28 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Git/Git-Note.md"
+                "file": "Notes/Java Script/Asynchronous and Synchronous/05. Built-in Modules of Nodejs.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Git-Note"
+              "title": "Outline of 05. Built-in Modules of Nodejs"
+            }
+          },
+          {
+            "id": "b8002d94cd90ffc9",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 301.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,21 +184,45 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8850aae317a1bff5",
+  "active": "28ec6913b5792168",
   "lastOpenFiles": [
-    "Notes/Backend System.md",
-    "Notes/Git/Git-Note.md",
-    "Notes/Git/index.js",
-    "Excalidraw/Drawing 2025-01-16 08.46.40.excalidraw.md",
-    "Notes/Git",
-    "Notes/What are we going to learn first.md",
-    "Notes/Introduction.md",
-    "Excalidraw",
-    "Notes/Server's-Working.canvas",
-    "Server's.md",
-    "Notes",
-    "github.com/banmala/todo-api.md",
-    "github.com/banmala",
-    "github.com"
+    "First-Api/First-api-notes.md",
+    "Second-Api-Express/Second-Api-Express-notes.md",
+    "Second-Api-Express/node_modules/fsevents",
+    "Second-Api-Express/node_modules/side-channel/test/index.js",
+    "Second-Api-Express/node_modules/side-channel/tsconfig.json",
+    "Second-Api-Express/node_modules/side-channel/README.md",
+    "Second-Api-Express/node_modules/side-channel/LICENSE",
+    "Second-Api-Express/node_modules/side-channel/test",
+    "Second-Api-Express/node_modules/side-channel/package.json",
+    "Second-Api-Express/node_modules/side-channel/index.js",
+    "Second-Api-Express/node_modules/side-channel/index.d.ts",
+    "Second-Api-Express/node_modules/side-channel/CHANGELOG.md",
+    "Second-Api-Express/node_modules/side-channel",
+    "Second-Api-Express/node_modules/express/Readme.md",
+    "Second-Api-Express/node_modules/finalhandler/node_modules/debug/src/node.js",
+    "Second-Api-Express/node_modules/finalhandler/node_modules/debug/CHANGELOG.md",
+    "Second-Api-Express/node_modules/express/History.md",
+    "Second-Api-Express/node_modules/content-disposition/README.md",
+    "Second-Api-Express/node_modules/send/node_modules/encodeurl/HISTORY.md",
+    "Second-Api-Express/node_modules/express/node_modules/ms/readme.md",
+    "Second-Api-Express/node_modules/body-parser/node_modules/ms/license.md",
+    "Second-Api-Express/node_modules/send/node_modules/debug/node_modules/ms/readme.md",
+    "Second-Api-Express/node_modules/finalhandler/node_modules/ms/readme.md",
+    "Second-Api-Express/node_modules/send/node_modules/debug/README.md",
+    "Second-Api-Express/node_modules/finalhandler/node_modules/debug/README.md",
+    "Second-Api-Express/node_modules/send/node_modules/debug/node_modules/ms/license.md",
+    "Second-Api-Express/node_modules/finalhandler/node_modules/ms/license.md",
+    "Second-Api-Express/node_modules/content-type/README.md",
+    "Second-Api-Express/node_modules/content-type/HISTORY.md",
+    "Second-Api-Express/node_modules/array-flatten/README.md",
+    "Second-Api-Express/node_modules/accepts/README.md",
+    "Second-Api-Express/node_modules/accepts/HISTORY.md",
+    "Second-Api-Express/node_modules/cookie/SECURITY.md",
+    "Second-Api-Express/node_modules/cookie-signature/Readme.md",
+    "Second-Api-Express/node_modules/cookie-signature/History.md",
+    "Second-Api-Express/node_modules/cookie/README.md",
+    "Pasted image 20250122085405.png",
+    "Notes/Server's-Working.canvas"
   ]
 }

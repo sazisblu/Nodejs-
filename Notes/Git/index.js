@@ -16,7 +16,10 @@ for (let i = 0; i < 5; i++) {
   console.log("Loop iteration: " + i);
 }
 
-
+// Function
+function greet(name) {
+  console.log("Hello, " + name + "!");
+}
 
 greet("Jane Doe");
 
@@ -32,7 +35,6 @@ let person = {
 };
 
 console.log(person.name);
-
 
 console.log();
 let cat = {

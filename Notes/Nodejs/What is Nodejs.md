@@ -1,0 +1,5 @@
+- Nodejs is a run time env that allows us to run JS outside the browser
+- JS could only be run on the browser before introduction of JS
+- Nodejs is built on top of V8 engine
+- **NPM** package works alongside node , this package is an extensive collection of variety of libraries
+- Event Driven Architecture - Triggered on occurance of Events
